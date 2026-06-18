@@ -1,5 +1,7 @@
 # Awesome Scientific Peer Review [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+<!--lint disable double-link-->
+
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](#contributing)
 
 A curated, taxonomy-aware catalog of datasets, systems, tools, and evaluation resources for AI-assisted scientific peer review.
@@ -7,9 +9,11 @@ A curated, taxonomy-aware catalog of datasets, systems, tools, and evaluation re
 > [!IMPORTANT]
 > Scientific peer review requires expert judgment, confidentiality, fairness, and accountability. These resources should support human reviewers and editors, not replace responsible human decision-making.
 
-<!--lint disable double-link table-pipe-alignment-->
+<!--lint disable table-pipe-alignment-->
 
 ## Contents
+
+<!--lint disable awesome-toc-->
 
 - [How to Use This Catalog](#how-to-use-this-catalog)
 - [Browse by Task](#browse-by-task)
@@ -24,6 +28,8 @@ A curated, taxonomy-aware catalog of datasets, systems, tools, and evaluation re
 - [Related Awesome Lists](#related-awesome-lists)
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
+
+<!--lint enable awesome-toc-->
 
 ## How to Use This Catalog
 
@@ -61,10 +67,7 @@ Every named resource is linked to its primary paper, repository, dataset, API, o
 
 ## Peer Review Evaluation Taxonomy
 
-The catalog incorporates the two-level taxonomy from the attached research paper:
-
-- **Paper review evaluation facets** describe what a review evaluates about the manuscript.
-- **Peer review evaluation facets** describe how well the review itself performs that evaluation.
+The catalog incorporates the two-level taxonomy from the attached research paper. **Paper review evaluation facets** describe what a review evaluates about the manuscript. **Peer review evaluation facets** describe how well the review itself performs that evaluation.
 
 The five facet families below are cross-cutting. They are useful both for choosing datasets and for designing evaluation modules.
 
