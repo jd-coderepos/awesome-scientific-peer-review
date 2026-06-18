@@ -38,7 +38,6 @@ Use this list to study or build tools for reviewer matching, critique assistance
 | Parse papers and retrieve scholarly evidence | [Scientific Documents and Scholarly Data](#scientific-documents-and-scholarly-data) |
 | Evaluate an LLM reviewer | [Evaluation Frameworks and Judge Models](#evaluation-frameworks-and-judge-models) |
 | Build an agentic or RAG pipeline | [RAG, Agents, and Workflow Frameworks](#rag-agents-and-workflow-frameworks) |
-| Check policy, confidentiality, or governance | [Policies, Ethics, and Governance](#policies-ethics-and-governance) |
 
 ## How to Read
 
