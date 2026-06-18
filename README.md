@@ -1,6 +1,6 @@
 # Awesome Scientific Peer Review [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](#contributing)
 
 A curated catalog of datasets, systems, papers, evaluation methods, and infrastructure for AI-assisted scientific peer review.
 
@@ -16,12 +16,13 @@ Use this list to study or build tools for reviewer matching, critique assistance
 - [Taxonomy](#taxonomy)
 - [Resource Catalog](#resource-catalog)
 - [Infrastructure and Building Blocks](#infrastructure-and-building-blocks)
-- [Learning Resources](#learning-resources)
 - [Policies, Ethics, and Governance](#policies-ethics-and-governance)
 - [Evaluation Checklist](#evaluation-checklist)
 - [Open Gaps](#open-gaps)
 - [Related Awesome Lists](#related-awesome-lists)
+- [Acknowledgements](#acknowledgements)
 
+<!--lint disable awesome-list-item double-link table-pipe-alignment-->
 ## Quick Browse
 
 | I want to... | Start here |
@@ -50,7 +51,6 @@ Each resource has one primary catalog location and compact tags for cross-cuttin
 - `🤖 system` - Model, workflow, or research prototype for a peer-review task.
 - `🛠️ tool` - Reusable software, API, platform, or production service.
 - `📏 evaluation` - Metric, evaluator, judge model, or evaluation framework.
-- `🎓 learning` - Course, tutorial, or educational implementation.
 - `⚖️ policy` - Policy, ethical guidance, or governance resource.
 
 ### Workflow Stage
@@ -109,6 +109,7 @@ Across both levels, five facet families recur:
 - **Sentiment facets** - Politeness, harshness, helpfulness, interpersonal tone, and aspect-conditioned sentiment.
 - **Polarity facets** - Strengths versus weaknesses, accept/reject orientation, disagreement, contradiction, hedging, uncertainty, calibration, and bias.
 
+<!--lint enable awesome-list-item double-link table-pipe-alignment-->
 ## Resource Catalog
 
 ### Foundations and Surveys
@@ -238,18 +239,6 @@ Across both levels, five facet families recur:
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - SDK for composing model calls, tools, memory, and agent workflows. Tags: `🛠️ tool` `✍️ review` `🧑‍⚖️ meta` `🟢 open artifact`.
 - [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) - Embedding and reranking toolkit for reviewer matching, related-work retrieval, and semantic review analysis. Tags: `🛠️ tool` `📥 ingest` `👥 match` `🔎 assess` `🟢 open artifact`.
 
-## Learning Resources
-
-- [CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) - Stanford course covering representation learning, transformers, information extraction, and modern NLP foundations. Tags: `🎓 learning`.
-- [CS25: Transformers United](https://web.stanford.edu/class/cs25/) - Public Stanford seminar series on transformer research and applications. Tags: `🎓 learning`.
-- [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) - Practical courses on RAG, agents, evaluation, prompt engineering, and LLM application development. Tags: `🎓 learning` `📥 ingest` `🔎 assess`.
-- [fast.ai Practical Deep Learning](https://course.fast.ai/) - Implementation-oriented deep-learning course with transferable lessons for scientific NLP models. Tags: `🎓 learning`.
-- [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/) - Hands-on course covering transformers, datasets, tokenizers, fine-tuning, and model sharing. Tags: `🎓 learning`.
-- [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch) - Sebastian Raschka's code-centered guide to implementing, training, and fine-tuning language models. Tags: `🎓 learning` `🟢 open artifact`.
-- [nanoGPT](https://github.com/karpathy/nanoGPT) - Compact GPT training implementation for understanding core language-model mechanics. Tags: `🎓 learning` `🟢 open artifact`.
-- [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) - Andrej Karpathy's from-first-principles neural-network and language-model course. Tags: `🎓 learning` `🟢 open artifact`.
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Visual explanation of transformer internals useful for newcomers building scholarly NLP systems. Tags: `🎓 learning`.
-
 ## Policies, Ethics, and Governance
 
 - [ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship) - ACM guidance on generative-AI tools, authorship responsibility, disclosure, and publication integrity. Tags: `⚖️ policy` `🛡️ audit`.
@@ -258,6 +247,7 @@ Across both levels, five facet families recur:
 - [NeurIPS Code of Ethics](https://neurips.cc/public/EthicsGuidelines) - Ethics guidance for authors, reviewers, and organizers in machine-learning research. Tags: `⚖️ policy` `🛡️ audit`.
 - [The COPE Ethical Guidelines for Peer Reviewers](https://publicationethics.org/resources/guidelines-new/cope-ethical-guidelines-peer-reviewers) - Core guidance on confidentiality, conflicts, objectivity, timeliness, and accountability. Tags: `⚖️ policy` `🛡️ audit`.
 
+<!--lint disable awesome-list-item-->
 ## Evaluation Checklist
 
 When assessing a peer-review assistant, ask:
@@ -284,6 +274,7 @@ When assessing a peer-review assistant, ask:
 - Policy guidance is evolving faster than technical benchmarks, especially around confidentiality and permissible reviewer assistance.
 - More datasets need clear licenses, ethical release documentation, and machine-readable provenance.
 
+<!--lint enable awesome-list-item-->
 ## Related Awesome Lists
 
 - [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents#readme) - Agent frameworks, platforms, and applied autonomous-system resources.
@@ -297,12 +288,12 @@ When assessing a peer-review assistant, ask:
 
 Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request. Add each resource to one primary section and use the compact tag vocabulary above.
 
-## License
-
-The original taxonomy, selection, organization, and descriptive text in this repository are released under the [Creative Commons Attribution 4.0 International License](LICENSE). Please credit this repository when reusing or adapting the curated work. Linked resources remain governed by their own licenses and terms.
-
 ## Acknowledgements
 
 This catalog was developed from original literature review and taxonomy research, supplemented by public primary sources and community-maintained research artifacts.
 
 The initial repository structure and editorial pass were assisted by [OpenAI Codex](https://openai.com/codex/). Resource selection, interpretation, and maintenance remain human-led.
+
+## Footnotes
+
+The original taxonomy, selection, organization, and descriptive text in this repository are released under the [Creative Commons Attribution 4.0 International License](LICENSE). Please credit this repository when reusing or adapting the curated work. Linked resources remain governed by their own licenses and terms.
