@@ -1,6 +1,6 @@
 # Awesome Scientific Peer Review [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-[![CC0 1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 A curated list of datasets, tools, papers, models, benchmarks, and workflows for AI-assisted scientific peer review.
 
@@ -209,4 +209,4 @@ Contributions are welcome. Please read the [contribution guidelines](CONTRIBUTIN
 
 This list curates public resources and does not endorse uploading confidential manuscripts to third-party services. Check the data license, venue policy, privacy conditions, and model provider terms before using any resource in a real review workflow.
 
-To the extent possible under law, this list is released under [CC0 1.0 Universal](LICENSE).
+The original taxonomy, selection, organization, and descriptive text in this repository are released under the [Creative Commons Attribution 4.0 International License](LICENSE). Please credit this repository when reusing or adapting the curated work. Linked resources remain governed by their own licenses and terms.

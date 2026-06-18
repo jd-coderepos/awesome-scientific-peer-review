@@ -54,4 +54,4 @@ Do not add a resource to several sections. Place it where it is most useful and 
 - Update related wording if a project was renamed, archived, superseded, or substantially changed.
 - Be ready to revise or remove an entry if maintainers or contributors identify quality, licensing, privacy, or relevance concerns.
 
-By contributing, you agree that your contribution is made available under the repository's [CC0 1.0 Universal license](LICENSE).
+By contributing, you agree that your contribution is made available under the repository's [Creative Commons Attribution 4.0 International license](LICENSE).
