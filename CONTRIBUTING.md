@@ -42,9 +42,10 @@ Commercial and proprietary tools are welcome when they fill a clear editorial ne
    ```
 
 5. Start the description with an uppercase letter and end it with a period.
-6. Keep the entry concise, grammatical, and free of unsupported claims.
+6. Add compact tags from the README for resource type, workflow stage, evaluation facet, and availability.
+7. Keep the entry concise, grammatical, and free of unsupported claims.
 
-Do not add a resource to several sections. Place it where it is most useful and mention its additional roles in the description.
+Do not add a resource to several sections. Place it where it is most useful and use tags to expose its additional roles.
 
 ## Pull Requests
 
