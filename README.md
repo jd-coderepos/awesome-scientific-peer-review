@@ -1,4 +1,10 @@
-# Awesome Scientific Peer Review [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+<p align="center">
+  <img src="assets/banner.png" alt="Awesome Scientific Peer Review">
+</p>
+
+<p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a>
+</p>
 
 <!--lint disable double-link-->
 
@@ -21,13 +27,13 @@ A curated, taxonomy-aware catalog of datasets, systems, tools, and evaluation re
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
 - [Systems and Methods](#systems-and-methods)
 - [Infrastructure and Building Blocks](#infrastructure-and-building-blocks)
-- [Policies, Ethics, and Governance](#policies-ethics-and-governance)
-- [Surveys and Field Studies](#surveys-and-field-studies)
-- [Evaluation Checklist](#evaluation-checklist)
-- [Open Gaps](#open-gaps)
-- [Related Awesome Lists](#related-awesome-lists)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
+- [🏛️ Policies, Ethics, and Governance](#️-policies-ethics-and-governance)
+- [📚 Surveys and Field Studies](#-surveys-and-field-studies)
+- [✅ Evaluation Checklist](#-evaluation-checklist)
+- [🔭 Open Gaps](#-open-gaps)
+- [🔗 Related Awesome Lists](#-related-awesome-lists)
+- [🤝 Contributing](#-contributing)
+- [✨ Acknowledgements](#-acknowledgements)
 
 <!--lint enable awesome-toc-->
 
@@ -209,7 +215,7 @@ These are reusable building blocks, not peer-review-specific systems.
 - 🟩 ✅ [CrewAI](https://github.com/crewAIInc/crewAI) - Role-based agent orchestration.
 - 🟩 ✅ [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - SDK for model calls, tools, memory, and agents.
 
-## Policies, Ethics, and Governance
+## 🏛️ Policies, Ethics, and Governance
 
 - 🟥 📄 [COPE Ethical Guidelines for Peer Reviewers](https://publicationethics.org/resources/guidelines-new/cope-ethical-guidelines-peer-reviewers) - Confidentiality, conflicts, objectivity, timeliness, and accountability.
 - 🟥 📄 [Nature Portfolio Artificial Intelligence Policy](https://www.nature.com/nature-portfolio/editorial-policies/ai) - AI authorship, generated content, and reviewer confidentiality.
@@ -217,7 +223,7 @@ These are reusable building blocks, not peer-review-specific systems.
 - 🟥 📄 [ICLR Code of Ethics](https://iclr.cc/public/CodeOfEthics) - Ethics requirements relevant to confidential and responsible reviewing.
 - 🟥 📄 [NeurIPS Code of Ethics](https://neurips.cc/public/EthicsGuidelines) - Ethics guidance for authors, reviewers, and organizers.
 
-## Surveys and Field Studies
+## 📚 Surveys and Field Studies
 
 - 🟨 📄 [Can AI Be a Good Peer Reviewer?](https://arxiv.org/abs/2604.27924) - Survey of review generation, rebuttal, meta-review, revision, evaluation, and governance.
 - 🟨 📄 [What Can Natural Language Processing Do for Peer Review?](https://arxiv.org/abs/2405.06563) - Task and dataset survey spanning the review workflow. ([Companion Resources](https://github.com/OAfzal/nlp-for-peer-review))
@@ -227,7 +233,7 @@ These are reusable building blocks, not peer-review-specific systems.
 
 <!--lint disable awesome-list-item-->
 
-## Evaluation Checklist
+## ✅ Evaluation Checklist
 
 - **Coverage:** Does the review inspect the manuscript aspects that matter for its type and venue?
 - **Grounding:** Are critiques linked to manuscript passages, experiments, references, or retrieved evidence?
@@ -240,7 +246,7 @@ These are reusable building blocks, not peer-review-specific systems.
 - **Governance:** Are confidentiality, provenance, licensing, disclosure, and accountability explicit?
 - **Reproducibility:** Are models, prompts, retrieval sources, rubrics, and versions documented?
 
-## Open Gaps
+## 🔭 Open Gaps
 
 - Multidisciplinary, multilingual, and non-conference review corpora remain limited.
 - Few datasets connect reviews, rebuttals, revisions, editorial discussion, and decisions end to end.
@@ -252,7 +258,7 @@ These are reusable building blocks, not peer-review-specific systems.
 
 <!--lint enable awesome-list-item-->
 
-## Related Awesome Lists
+## 🔗 Related Awesome Lists
 
 - [Awesome Peer Review](https://github.com/formula12/Awesome-Peer-Review#readme) - Broader bibliography of computational peer-review research.
 - [Awesome Scientific Language Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models#readme) - Scientific language models and datasets.
@@ -261,18 +267,14 @@ These are reusable building blocks, not peer-review-specific systems.
 - [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents#readme) - Agent frameworks and applications.
 - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#readme) - General large-language-model research and engineering.
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md). Add each resource to one canonical catalog location and use the visual symbols from the legend.
 
-## Acknowledgements
+## ✨ Acknowledgements
 
 This catalog was developed from original literature review and taxonomy research, including the two-level, five-family evaluation taxonomy summarized above.
 
 The initial repository structure and editorial work were assisted by [OpenAI Codex](https://openai.com/codex/). Resource selection, interpretation, and maintenance remain human-led.
-
-## Footnotes
-
-The original taxonomy, selection, organization, and descriptive text are released under the [Creative Commons Attribution 4.0 International License](LICENSE). Linked resources remain governed by their own licenses and terms.
 
 <!--lint enable double-link table-pipe-alignment-->
