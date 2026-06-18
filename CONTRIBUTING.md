@@ -55,4 +55,22 @@ Do not add a resource to several sections. Place it where it is most useful and 
 - Update related wording if a project was renamed, archived, superseded, or substantially changed.
 - Be ready to revise or remove an entry if maintainers or contributors identify quality, licensing, privacy, or relevance concerns.
 
+When you open a pull request, GitHub will automatically include a checklist from
+[the pull request template](.github/pull_request_template.md). Complete every
+applicable item before requesting review. If an item does not apply, explain why
+in the pull request description.
+
+### Pull Request Checklist
+
+- [ ] I checked the list for duplicate or closely overlapping resources.
+- [ ] The resource is directly relevant to scientific peer review or an essential supporting component.
+- [ ] I linked to a reliable primary source, such as the original paper, official documentation, dataset, model card, or maintained repository.
+- [ ] I verified that all added or changed links work and are publicly accessible.
+- [ ] I placed each resource in one canonical section and followed the section's ordering.
+- [ ] I used the appropriate resource, access, workflow, and taxonomy symbols from the README legend.
+- [ ] The description is concise, accurate, grammatical, and free of unsupported or promotional claims.
+- [ ] I disclosed any affiliation with the resource in this pull request.
+- [ ] This contribution contains no confidential, private, leaked, or unethically collected review data.
+- [ ] I reviewed the complete contributing guide.
+
 By contributing, you agree that your contribution is made available under the repository's [Creative Commons Attribution 4.0 International license](LICENSE).
