@@ -42,7 +42,7 @@ Commercial and proprietary tools are welcome when they fill a clear editorial ne
    ```
 
 5. Start the description with an uppercase letter and end it with a period.
-6. Add compact tags from the README for resource type, workflow stage, evaluation facet, and availability.
+6. Add 3–6 controlled bracket tags from the README for resource kind, access, purpose, evaluation facet, or baseline status.
 7. Keep the entry concise, grammatical, and free of unsupported claims.
 
 Do not add a resource to several sections. Place it where it is most useful and use tags to expose its additional roles.
