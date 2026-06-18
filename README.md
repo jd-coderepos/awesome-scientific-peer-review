@@ -21,12 +21,12 @@ A curated, taxonomy-aware catalog of datasets, systems, tools, and evaluation re
 
 <!--lint disable awesome-toc-->
 
-- [How to Use This Catalog](#how-to-use-this-catalog)
-- [Browse by Task](#browse-by-task)
-- [Peer Review Evaluation Taxonomy](#peer-review-evaluation-taxonomy)
-- [Datasets and Benchmarks](#datasets-and-benchmarks)
-- [Systems and Methods](#systems-and-methods)
-- [Infrastructure and Building Blocks](#infrastructure-and-building-blocks)
+- [📖 How to Use This Catalog](#-how-to-use-this-catalog)
+- [🧭 Browse by Task](#-browse-by-task)
+- [📐 Peer Review Evaluation Taxonomy](#-peer-review-evaluation-taxonomy)
+- [🗂️ Datasets and Benchmarks](#️-datasets-and-benchmarks)
+- [⚙️ Systems and Methods](#️-systems-and-methods)
+- [🧱 Infrastructure and Building Blocks](#-infrastructure-and-building-blocks)
 - [🏛️ Policies, Ethics, and Governance](#️-policies-ethics-and-governance)
 - [📚 Surveys and Field Studies](#-surveys-and-field-studies)
 - [✅ Evaluation Checklist](#-evaluation-checklist)
@@ -37,7 +37,7 @@ A curated, taxonomy-aware catalog of datasets, systems, tools, and evaluation re
 
 <!--lint enable awesome-toc-->
 
-## How to Use This Catalog
+## 📖 How to Use This Catalog
 
 Every named resource is linked to its primary paper, repository, dataset, API, or official product page. Entries appear once in the canonical catalogs; the task and taxonomy tables are linked indexes into those resources.
 
@@ -54,7 +54,7 @@ Every named resource is linked to its primary paper, repository, dataset, API, o
 
 <!--lint enable awesome-list-item-->
 
-## Browse by Task
+## 🧭 Browse by Task
 
 | Goal | Start with | Baseline or comparison |
 | --- | --- | --- |
@@ -71,7 +71,7 @@ Every named resource is linked to its primary paper, repository, dataset, API, o
 | Evaluate an LLM reviewer | [ReviewCritique](https://github.com/jiangshdd/ReviewCritique), [RevUtil](https://github.com/bodasadallah/RevUtil), [YESciEval](https://arxiv.org/abs/2505.14279) | Multidimensional rubric plus qualified human review; do not rely on one scalar score. |
 | Audit robustness or gaming | [Breaking the Reviewer](https://github.com/Lin-TzuLing/Breaking-the-Reviewer), [Are We There Yet?](https://arxiv.org/abs/2412.01708) | Repeated runs, paper rewrites, adversarial phrasing, and prompt-injection tests. |
 
-## Peer Review Evaluation Taxonomy
+## 📐 Peer Review Evaluation Taxonomy
 
 The catalog incorporates the two-level taxonomy from the attached research paper. **Paper review evaluation facets** describe what a review evaluates about the manuscript. **Peer review evaluation facets** describe how well the review itself performs that evaluation.
 
@@ -96,7 +96,7 @@ A practical reviewer-assistance evaluation should combine:
 5. ⚖️ **Polarity and calibration** - Are strengths, weaknesses, disagreement, and uncertainty represented faithfully?
 6. 🛡️ **Robustness and integrity** - Is the system stable under manipulation, repetition, and changing model conditions?
 
-## Datasets and Benchmarks
+## 🗂️ Datasets and Benchmarks
 
 This is the canonical dataset catalog. Access symbols describe the linked artifact, not every upstream source from which the dataset was derived.
 
@@ -123,7 +123,7 @@ This is the canonical dataset catalog. Access symbols describe the linked artifa
 | [GenReview](https://anonymous.4open.science/r/gen_review) | Human versus controlled LLM-review comparison | Human and positive/neutral/negative generated reviews | 💬 ⚖️ | 🟦 📦 |
 | [arXivEdits](https://arxiv.org/abs/2210.15067) | General scientific revision modeling | Aligned arXiv versions, edits, revision intents | 🧱 | 🟦 📄 |
 
-## Systems and Methods
+## ⚙️ Systems and Methods
 
 ### ✍️ Review Generation and Critique
 
@@ -174,7 +174,7 @@ This is the canonical dataset catalog. Access symbols describe the linked artifa
 - 🟪 ✅ [Breaking the Reviewer](https://github.com/Lin-TzuLing/Breaking-the-Reviewer) - Adversarial attacks against automated paper-reviewing systems.
 - 🟨 📄 [Stop Automating Peer Review Without Rigorous Evaluation](https://arxiv.org/abs/2605.03202) - Studies review homogenization and score gaming through paper rewriting.
 
-## Infrastructure and Building Blocks
+## 🧱 Infrastructure and Building Blocks
 
 ### 📥 Scientific Document Parsing and Scholarly Retrieval
 
