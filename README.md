@@ -13,6 +13,7 @@ Use this list to find resources for reviewer matching, critique assistance, revi
 
 ## Contents
 
+<!--lint disable awesome-toc double-link-->
 - [Find Resources by Purpose](#find-resources-by-purpose)
 - [Recommended Baselines by Task](#recommended-baselines-by-task)
 - [Dataset Selection Guide](#dataset-selection-guide)
@@ -28,6 +29,7 @@ Use this list to find resources for reviewer matching, critique assistance, revi
 - [Related Awesome Lists](#related-awesome-lists)
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
+<!--lint enable awesome-toc double-link-->
 
 <!--lint disable awesome-list-item double-link table-pipe-alignment-->
 ## Find Resources by Purpose
