@@ -2,13 +2,13 @@
   <img src="assets/banner.png" alt="Awesome Scientific Peer Review">
 </p>
 
-<p align="center">
-  <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a>
-</p>
-
 <!--lint disable double-link-->
 
-[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](#contributing)
+<p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a>
+  <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg" alt="License: CC BY 4.0"></a>
+  <a href="#contributing"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg" alt="Contributions Welcome"></a>
+</p>
 
 A curated, taxonomy-aware catalog of datasets, systems, tools, and evaluation resources for AI-assisted scientific peer review.
 
